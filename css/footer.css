@@ -1,0 +1,57 @@
+footer {
+  background: #1C1E53;
+}
+footer .footer {
+  padding: 96px 0;
+}
+footer .footer .row {
+  justify-content: center;
+}
+footer .footer .row .footer__left p {
+  margin-top: 23px;
+  max-width: 399px;
+  opacity: 0.8;
+  color: var(--White, #FFF);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+footer .footer .row .footer__right h2 {
+  max-width: 333px;
+  color: #FFF;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+}
+footer .footer .row .footer__right p {
+  opacity: 0.8;
+  max-width: 399px;
+  color: var(--Grey, #F4F6FC);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+footer .footer .row .row {
+  background: var(--Yellow, #FCD980);
+}
+footer .footer .row .row div p {
+  opacity: 1;
+  color: var(--Dark-blue, #282938);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+}
+footer .footer .row .row div span {
+  color: var(--Dark-blue, #282938);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+footer .footer .row .row-2 {
+  max-width: 70%;
+  margin-top: 63px;
+}
+footer .footer .row .row-2 div {
+  display: inline-block;
+  padding-bottom: 16px;
+}

@@ -1,0 +1,51 @@
+nav {
+  background: #1C1E53 !important;
+}
+nav .container {
+  background: #1C1E53 !important;
+}
+nav .container .navbar-nav .nav-item .nav-link {
+  color: #BBBBCB;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  transition: 0.5s;
+}
+nav .container .navbar-nav .nav-item .nav-link button {
+  background: transparent;
+  padding: 16px 48px;
+  border-radius: 41px;
+  border: 2px solid rgba(244, 246, 252, 0.2);
+  color: var(--White, #FFF);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  transition: 0.5s;
+}
+nav .container .navbar-nav .nav-item .nav-link button:hover {
+  background-color: #FCD980;
+  color: #1C1E53;
+}
+nav .container .navbar-nav .nav-item .nav-link:hover {
+  color: #FCD980;
+}
+nav .container .navbar-nav .nav-item .active {
+  color: #FCD980 !important;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+nav .container .offcanvas-header {
+  border-bottom: 1px solid #FCD980;
+  background: #1C1E53;
+}
+nav .container .offcanvas-header h5 {
+  color: #FFF;
+}
+nav .container .offcanvas-body {
+  background: #1C1E53;
+}
+nav .container .offcanvas-body ul li a {
+  color: #FFF;
+}
